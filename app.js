@@ -1,7 +1,7 @@
-let firstName = Adli;
-const homeTown = Malmö;
+let firstName = "Adli";
+const homeTown = "Malmö";
 
 console.log(firstName);
 console.log(homeTown);
 
-homeTown = battikh;
+homeTown = "battikh";
